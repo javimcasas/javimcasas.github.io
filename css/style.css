@@ -1,0 +1,66 @@
+.title {
+    margin-top: 2%;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.container {
+    display: flex;
+}
+
+.map {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    align-items: center;
+}
+
+.container-box {
+    width: 27.5%;
+    margin-left: auto;
+    margin-right: 0.2%;
+}
+
+.notifs-title {
+    margin-top: 1%;
+    margin-left: 0.5%;
+    margin-right: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border-bottom: 6px double black;
+    border-bottom-width: 30%;
+}
+
+.box {
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+}
+
+.notifs-box {
+    width: 90%;
+    margin-top: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+}
+
+.notifs-head {
+    display: flex;
+}
+
+.notifs-id {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.notifs-bin {
+    margin-left: 76%;
+    margin-top: 3%;
+    width: 3%;
+    height: 3%;
+}
